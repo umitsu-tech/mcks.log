@@ -54,7 +54,9 @@ npm run build
 
 ## 現在の状況
 
-最終更新: 2026-09-29（otel-lgtm 記事を tech へ個別移植）
+最終更新: 2026-10-13（Strands Decider 記事を tech へ個別移植）
+
+- 直近の動き（2026-10-13）: **Strands Decider 記事「【Strands Decider】LM Studio と組み合わせてエージェントの判断までローカルで完結させてみる」を tech へ個別移植**（`--only strands-decider-lmstudio --pub-date 2026-10-07`、slug-map に追加。画像 1 枚は CDN 既存のため転送なし、views:544 引き継ぎ）
 
 - 直近の動き（2026-09-29）: **otel-lgtm 記事「【OpenTelemetry】grafana/otel-lgtm から OTel 入門してみたい」を tech へ個別移植**（`--only grafana-otel-lgtm-anatomy --pub-date 2026-09-28`、slug-map に追加。画像 3 枚は CDN 既存のため転送なし、views:79 引き継ぎ）。migrate.mjs の importedDate / fetchedAt は UTC の日付になるため、JST の日付（2026-09-29）に手で直した。限定共有中の残りは duckdb-wasm-blog-search の 1 本
 
