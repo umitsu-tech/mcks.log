@@ -54,7 +54,9 @@ npm run build
 
 ## 現在の状況
 
-最終更新: 2026-10-13（Strands Decider 記事を tech へ個別移植）
+最終更新: 2026-10-18（DuckDB Wasm 検索の記事を tech へ個別移植）
+
+- 直近の動き（2026-10-18）: **DuckDB Wasm 検索の記事「【DuckDB】ブログの記事検索を DuckDB Wasm + Parquet で作ってみた」を tech へ個別移植**（`--only duckdb-wasm-blog-search --pub-date 2026-10-18`、slug-map に追加。画像 2 枚は CDN 既存のため転送なし、views:18 引き継ぎ）。これで限定共有中の記事の未移植はゼロ
 
 - 直近の動き（2026-10-13）: **Strands Decider 記事「【Strands Decider】LM Studio と組み合わせてエージェントの判断までローカルで完結させてみる」を tech へ個別移植**（`--only strands-decider-lmstudio --pub-date 2026-10-07`、slug-map に追加。画像 1 枚は CDN 既存のため転送なし、views:544 引き継ぎ）
 

@@ -131,5 +131,6 @@
 	"github-username-change-oidc-immutable-sub": "github-username-change-oidc-immutable-sub",
 	"typesafe-jev-ops": "typesafe-jev-ops",
 	"grafana-otel-lgtm-anatomy": "grafana-otel-lgtm-anatomy",
-	"strands-decider-lmstudio": "strands-decider-lmstudio"
+	"strands-decider-lmstudio": "strands-decider-lmstudio",
+	"duckdb-wasm-blog-search": "duckdb-wasm-blog-search"
 }
