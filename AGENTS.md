@@ -54,8 +54,9 @@ npm run build
 
 ## 現在の状況
 
-最終更新: 2026-10-24（S3 Files の同期の記事を tech へ個別移植）
+最終更新: 2026-11-08（AgentCore ハンズオン環境の教材の記事を tech へ個別移植）
 
+- 直近の動き（2026-11-08）: **AgentCore ハンズオン環境の教材の記事「【AgentCore】エージェントのハンズオンをブラウザの中だけで完結させる教材を作った」を tech へ個別移植**（`--only agentcore-handson-env-ui --pub-date 2026-11-08`、slug-map に追加。画像 2 枚は CDN 既存のため転送なし、views:72 引き継ぎ）。Qiita で本公開済みのうち未移植は、2026-10-31 公開のお掃除の記事（qiita_id b28dca1867058156de46）の 1 本
 - 直近の動き（2026-10-24）: **S3 Files の記事「【S3 Files】ファイルシステムと S3 バケットの同期にかかる時間を測ってみた」を tech へ個別移植**（`--only s3-files-sync-timing --pub-date 2026-10-24`、slug-map に追加。画像 8 枚は CDN 既存のため転送なし、views:16 引き継ぎ。タグは Qiita 側の表記（nfs / S3files）のまま）。限定共有中の記事の未移植はゼロ
 - 直近の動き（2026-10-18）: **DuckDB Wasm 検索の記事「【DuckDB】ブログの記事検索を DuckDB Wasm + Parquet で作ってみた」を tech へ個別移植**（`--only duckdb-wasm-blog-search --pub-date 2026-10-18`、slug-map に追加。画像 2 枚は CDN 既存のため転送なし、views:18 引き継ぎ）。これで限定共有中の記事の未移植はゼロ
 

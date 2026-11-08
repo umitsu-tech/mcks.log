@@ -133,5 +133,6 @@
 	"grafana-otel-lgtm-anatomy": "grafana-otel-lgtm-anatomy",
 	"strands-decider-lmstudio": "strands-decider-lmstudio",
 	"duckdb-wasm-blog-search": "duckdb-wasm-blog-search",
-	"s3-files-sync-timing": "s3-files-sync-timing"
+	"s3-files-sync-timing": "s3-files-sync-timing",
+	"agentcore-handson-env-ui": "agentcore-handson-env-ui"
 }
