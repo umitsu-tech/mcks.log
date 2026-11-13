@@ -20,9 +20,10 @@ qiitaStats:
 
 :::note
 ここでのスキルは、AI エージェントに渡す手順書やスクリプトのパッケージ（Agent Skills など）を指します。
-:::
 
 https://agentskills.io/specification
+
+:::
 
 ## 自作のスキルの読み返し
 
